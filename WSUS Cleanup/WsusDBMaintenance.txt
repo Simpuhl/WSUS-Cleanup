@@ -1,0 +1,1 @@
+sqlcmd -S np:\\.\pipe\MICROSOFT##WID\tsql\query -i C:\Scripts\WsusDBMaintenance.sql
